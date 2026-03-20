@@ -7,11 +7,6 @@ HEAD
 - Estudiante 1 (Lider): Sebastian Velasquez
 - Estudiante 2: Kelly Sanchez
 - Estudiante 3: Sebastian Morales
-=======
-- Estudiante 1 (Lider): Sebastian Velasquez Pereira
-- Estudiante 2: Kelly Johana Sanchez Ariza
-- Estudiante 3: Juan Sebastian Morales Yara
-
 ---
 ## Terminos de Hardware
 ### `CPU` — Unidad Central de Procesamiento
